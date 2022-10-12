@@ -1,0 +1,19 @@
+.header, .mid{
+    width:95%;
+    display: block;
+}
+
+.list{
+    display: inline-block;
+    margin: auto;
+    position: relative;
+    display:block;
+
+}
+
+.bodu{
+    display: inline-block;
+    margin: 0 0 50px 50px;
+    position: relative;
+}
+
